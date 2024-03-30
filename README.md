@@ -5,6 +5,7 @@
 - 📫 I can be reached at medinatapampa@yahoo.com
 - 🧠 I'm learning some deep-learning techniques
 - 🤝 I'm open to collaborating on data science and computer vision-based projects
+- 🌱 I enjoy adventures and reading crime novels
 - Pronouns: She/Her
 
 <!---
